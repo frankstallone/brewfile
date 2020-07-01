@@ -44,3 +44,7 @@ Set repository, "non" for local Brewfile,
 <user>/<repo> for github repository,
 or full path for the repository: joelparkerhenderson/brewfile
 ```
+
+## Thanks
+
+Thank you to Joel Parker Henderson (http://joelparkerhenderson.com)
