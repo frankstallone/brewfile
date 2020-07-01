@@ -13,9 +13,6 @@
 # This file is organized in meaningful sections because we want to
 # make it easy for you to pick and choose sections that you want.
 #
-# There are many TODO items in this file. If you want, help us
-# describe these and organize them into the relevant sections.
-#
 # The file is generally organized in these sections:
 #
 #   * Software that's fine for everyone,
@@ -23,13 +20,6 @@
 #
 #   * Software that's especially suitable for programmers,
 #     e.g., compilers, databases, languages, servers, etc.
-#
-#   * Paid software that requires a license or purchase,
-#     e.g. JetBrains, OmniGroup, Paw, etc.
-#
-#   * Libraries: operating system libraries e.g. lib*.
-#
-#   * TODO: a section of uncategorized software.
 #
 #   * Fonts
 #
@@ -243,7 +233,7 @@ cask 'vlc'
 
 ## Media-Related
 
-# TODO
+# Free lossless audio codec
 brew 'flac'
 
 # FF MPEG for video
@@ -261,19 +251,6 @@ brew 'docker-machine'
 
 # NGINX web server.
 brew 'nginx'
-
-##
-# Font-Related
-##
-
-# Fontconfig is a library for configuring and customizing font access.
-brew 'fontconfig'
-
-# FreeType is a freely available software library to render fonts.
-brew 'freetype'
-
-# Command-line programs for manipulating fonts
-brew 'lcdf-typetools'
 
 ##
 # Dupes
@@ -343,15 +320,12 @@ cask 'skype'
 # Spotify music player
 cask 'spotify'
 
-# TODO
+# Hard drive cloning software
 cask 'superduper'
 
 ##
 # Environment-related
 ##
-
-# OSX FUSE file system
-cask 'osxfuse'
 
 ## Misc
 
