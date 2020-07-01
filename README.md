@@ -42,7 +42,7 @@ $ brew file init
 Do you want to set a repository (y)? ((n) for local Brewfile). [y/n]: y
 Set repository, "non" for local Brewfile,
 <user>/<repo> for github repository,
-or full path for the repository: joelparkerhenderson/brewfile
+or full path for the repository: frankstallone/brewfile
 ```
 
 ## Thanks
